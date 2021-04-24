@@ -1,0 +1,8 @@
+line 8
+line 7
+line 6
+reverse.c
+to test
+a test file
+just
+This is
